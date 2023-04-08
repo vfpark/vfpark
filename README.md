@@ -19,4 +19,4 @@
 ## Contato
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitoria-busch/)](https://www.linkedin.com/in/vitoria-busch/) 
-[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Outlook&logoColor=white&link=mailto:vitoria-busch@hotmail.com)](mailto:vitoria-busch@hotmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Email-grey?style=flat-square&logo=Message&logoColor=white&link=mailto:vitoria-busch@hotmail.com)](mailto:vitoria-busch@hotmail.com)
