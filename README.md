@@ -3,7 +3,7 @@
 ### <p>Um pouco sobre mim</p>
 
 <p>👩‍💻 Desenvolvedora back-end</br>
-🎓 Formada pela Generation Brasil no Bootcamp Pessoa Desenv. Java Full Stack Jr.</br>
+🎓 Desenvolvedora Java Full Stack Jr. pela Generation Brasil</br>
 💻 Estudante de Análise e Desenvolvimento de Sistemas na FMU</br>
 📝 Estudante de Administração pela Cruzeiro do Sul Virtual</br>
 💼 Em busca da primeira vaga na tecnologia </br>
