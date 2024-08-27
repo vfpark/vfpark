@@ -2,10 +2,9 @@
 
 ### <p>Um pouco sobre mim</p>
 
-<p>🎓 Certificada pela Generation Brasil como Pessoa Desenv. Java Full Stack Jr.</br>
-💻 Estudante de Análise e Desenvolvimento de Sistemas na FMU</br>
-📝 Estudante de Administração pela Cruzeiro do Sul Virtual</br>
-📚 Bookstan</br></p>
+<p>🎓 Certificada pela Generation Brasil em Dev. Java Full Stack Jr</br>
+🎓 Graduada em Administração pela Cruzeiro do Sul</br>
+💻 Estudante de Análise e Desenvolvimento de Sistemas na FMU</br></p>
 
 <div>
 <img src= "https://user-images.githubusercontent.com/101155320/229562925-d797421b-026f-4595-be27-6f3993c218ec.png" width="250px"/>
